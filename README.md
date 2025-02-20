@@ -11,7 +11,7 @@ The classes are distributed as follows:
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd7a9405-89cf-4323-923e-25f89639f280" alt="Descrição da imagem" width="300">
+  <img src="https://github.com/user-attachments/assets/54b930d1-8c63-4aa7-a822-5339575c34fb" alt="Descrição da imagem" width="500">
 </p>
 
 
